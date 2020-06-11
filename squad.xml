@@ -6,10 +6,17 @@
 <name>BoyNextDoor</name>
 <email>deep.dark@fantasy.com</email>
 <web>http://soundboard.ass-we-can.com/</web>
-<picture>logo.paa</picture>
+<picture>./logo.paa</picture>
 <title>BoyNextDoor</title>
 
 
+	<member id="76561198238477542" nick="cirno">
+		<name>Mark Wolff</name>
+		<email>Wolff@fantasy.com</email>
+		<icq>312213</icq>
+		<remark>Bodybuilder</remark>
+	</member>
+	
 	<member id="76561198238477542" nick="VAN DARKHOLME">
 	<name>Van Darkholme</name>
 	<email>VAN.deep.dark@fantasy.com</email>
@@ -59,12 +66,7 @@
 		<remark>Is This a Pigeon?</remark>
 	</member>
 	
-	<member id="76561198238477542" nick="cirno">
-		<name>Mark Wolff</name>
-		<email>Wolff@fantasy.com</email>
-		<icq>312213</icq>
-		<remark>Bodybuilder</remark>
-	</member>
+
 	
 	<member id="76561198088207697" nick="Fuggo">
 		<name>Billy Herrington</name>
