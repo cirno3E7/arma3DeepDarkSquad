@@ -1,0 +1,76 @@
+﻿
+<?xml version="1.0"?>
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+
+<squad nick="BoyNextDoor">
+<name>BoyNextDoor</name>
+<email>deep.dark@fantasy.com</email>
+<web>http://soundboard.ass-we-can.com/</web>
+<picture>logo.paa</picture>
+<title>BoyNextDoor</title>
+
+
+	<member id="76561198238477542" nick="VAN DARKHOLME">
+	<name>Van Darkholme</name>
+	<email>VAN.deep.dark@fantasy.com</email>
+	<icq>Fisting is 300$</icq>
+	<remark>Do you like what you see?</remark>
+	</member>
+
+	<member id="76561198000137290" nick="while true do end">
+	<name>Billy Herrington</name>
+	<email>Billy.deep.dark@fantasy.com</email>
+	<icq>Ass we can</icq>
+	<remark>You like that?</remark>
+	</member>
+	
+	<member id="76561198121189844" nick="Leon21">
+	<name>Ricardo Milos</name>
+	<email>Ricardo.deep.dark@fantasy.com</email>
+	<icq>Party boy</icq>
+	<remark>You get mad</remark>
+	</member>
+	
+	<member id="76561198287043792" nick="Billy Herrington">
+	<name>Billy Herrington</name>
+	<email>Billy.deep.dark@fantasy.com</email>
+	<icq>Ass we can</icq>
+	<remark>You like that?</remark>
+	</member>
+	
+	<member id="76561198045588679" nick="Billy Herrington">
+	<name>Billy Herrington</name>
+	<email>Billy.deep.dark@fantasy.com</email>
+	<icq>Ass we can</icq>
+	<remark>You like that?</remark>
+	</member>
+	
+	<member id="76561198040467258" nick="Van Darkholme">
+	<name>Van Darkholme</name>
+	<email>VAN.deep.dark@fantasy.com</email>
+	<icq>Fisting is 300$</icq>
+	<remark>Do you like what you see?</remark>
+	</member>
+	
+	<member id="76561198000137290" nick="while true do end">
+		<name>Ricardo Milos</name>
+		<email>Ricardo.deep.dark@fantasy.com</email>
+		<icq>Partyboy</icq>
+		<remark>Is This a Pigeon?</remark>
+	</member>
+	
+	<member id="76561198238477542" nick="cirno">
+		<name>Mark Wolff</name>
+		<email>Wolff@fantasy.com</email>
+		<icq>312213</icq>
+		<remark>Bodybuilder</remark>
+	</member>
+	
+	<member id="76561198088207697" nick="Fuggo">
+		<name>Billy Herrington</name>
+		<email>Billy.deep.dark@fantasy.com</email>
+		<icq>Ass we can</icq>
+		<remark>You like that?</remark>
+	</member>
+	
+</squad>
